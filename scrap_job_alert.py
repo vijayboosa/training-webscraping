@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
+# url of job website
 url = 'https://www.freejobalert.com/'
 
 
